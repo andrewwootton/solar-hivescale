@@ -1,7 +1,7 @@
 # solar-hivescale
 Sodaq Autonomo Code for Hivescale
 
-Hivescale12.0 is for 1 scale using the Ublox 3G modem
+Hivescale12.1 is for 1 scale using the Ublox 3G modem with the TPHv2 sensor
 
 Hivescale4 is for 2 scales connected by separate HX711 amplifiers using 2G modem
 
