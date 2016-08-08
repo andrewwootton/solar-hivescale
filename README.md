@@ -9,6 +9,7 @@ Hivescale5 is for a single scale using 2G modem
 
 Both now include the "off" commands for the HX711, GPRS modem and SD card
 
+Libraries2.zip contains the HX711, 3Gbee, RTCZero and Adafruit_BME280 and Adafruit_Unified_Sensor (TPHv2) libraries
 Libraries.zip contains the HX711, 3Gbee, BMP, SHT and RTCZero libraries
 
 This repository integrates with the Slack software channel
